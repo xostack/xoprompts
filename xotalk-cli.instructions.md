@@ -1,4 +1,7 @@
-# XOTalk CLI Instructions for LLM Agents
+---
+description: 'XOTalk CLI'
+applyTo: '**/*'
+---
 
 ## Overview
 

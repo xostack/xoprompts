@@ -1,4 +1,7 @@
-## Instructions for LLM Coding Agent: Pre-Implementation Context Gathering
+---
+description: 'Pre-Implementation Context Gathering'
+applyTo: '**/*'
+---
 
 Before writing any Go code that involves the Go standard library or third-party libraries, you are required to perform the following research and context-gathering steps. This process ensures that you have the most complete and accurate understanding of the libraries and APIs you will be using, which will lead to more robust and correct code on the first attempt.
 
