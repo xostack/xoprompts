@@ -1,5 +1,5 @@
 ---
-description: 'Instructions for writing Makefile following idiomatic practices and community standards'
+description: Makefile with idiomatic practices and community standards'
 applyTo: '**/Makefile'
 ---
 
